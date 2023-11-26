@@ -3,6 +3,8 @@ link do dataset: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-s
 
 Quais fatores influenciam a satisfação do cliente?
 
+Vamos responder a algumas perguntas de negócio através de visualizações gráficas e posteriormente iremos usar os algoritmos Random Forest e XGBoost para prever a classificação do nível de satisfação do cliente.
+
 Conteúdo:
 
 Gender: Gênero do passageiro (Female, Male)
