@@ -1,4 +1,6 @@
 # airline-passenger-satisfaction
+link do dataset: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction 
+
 Quais fatores influenciam a satisfação do cliente?
 
 Conteúdo:
